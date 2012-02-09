@@ -80,11 +80,11 @@
     <distributionManagement>
         <repository>
             <id>github.release</id>
-            <url>file:///Users/neilellis/Development/Paremus/github/public-repo/release</url>
+            <url>file:///Users/neilellis/Development/Paremus/github/public-repo/releases</url>
         </repository>
         <snapshotRepository>
             <id>github.snapshot</id>
-            <url>file:///Users/neilellis/Development/Paremus/github/public-repo/snapshot</url>
+            <url>file:///Users/neilellis/Development/Paremus/github/public-repo/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
